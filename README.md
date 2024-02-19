@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Rafael Rinta Primadani**.<br>
+
+Saya mahasiswa **Politeknik Harapan Bersama** prodi **Teknik Informatika**.<br>
 
 <!--
 **rafaelrinta/rafaelrinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
